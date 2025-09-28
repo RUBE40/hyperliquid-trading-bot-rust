@@ -1,6 +1,6 @@
-# Hyperliquid Trading Bot - Rust
+# Hyperliquid Trading (perp trading) Bot - Rust
 
-Hyperliquid trading Bot with Rust is an experimental trading system built with
+Hyperliquid trading(Perp trading) Bot with Rust is an experimental trading system built with
 [`hyperliquid_rust_sdk`](https://github.com/0xTan1319/hyperliquid-rust-sdk). It manages multiple
 markets on the Hyperliquid exchange and places trades based on signals from
 user-selected indicators.
